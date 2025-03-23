@@ -36,8 +36,4 @@ Of course, I'm always open to collaborating on projects! Don't hesitate to send 
 ![](https://img.shields.io/badge/DevOps-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
 ![](https://img.shields.io/badge/DevOps-GitHub_Actions-informational?style=flat&logo=github-actions&logoColor=white&color=2088FF)
 
-## 📈 GitHub Activity Graph
-
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=KennWu1&theme=github)](https://github.com/KennWu1)
-
 </div>
