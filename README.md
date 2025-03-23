@@ -1,6 +1,6 @@
 # Hello, I'm Kenn!
 ## About Me
-I'm focused primarily on creating apps that can be applied to everyday issues and streamline my research (I love imageJ). 
+I'm focused primarily on creating apps that can be applied to everyday issues and help streamline my research. 
 Outside of academics, you can find me playing tennis, badminton, running, or reading. 
 Of course, I'm always open to collaborating on projects!
 
