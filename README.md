@@ -8,10 +8,7 @@ Of course, I'm always open to collaborating on projects!
 - 🌱🧪Currently researching biochemistry and the plant sciences
 - 🧑‍💻 I work on CS projects in my free time!
 ### Skills
-- **Languages**: Java, C++, Python, SQL, Swift
-- **Front-End**: React, Angular, HTML, CSS, Sass
-- **Back-End**: Node, Django
-- **Mobile**: React
+- **Languages**: Java, C++, Python, SQL, Swift, React, Angular, HTML, CSS
 
 ## 📊 GitHub Stats
 
