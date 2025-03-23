@@ -1,4 +1,4 @@
-# Hello visitor, I'm Kenn! 👋
+# Hello, I'm Kenn!
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:kennwuinbox@gmail.com)
 
 ## About Me
