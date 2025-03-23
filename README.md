@@ -1,10 +1,8 @@
 # Hello, I'm Kenn!
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:kennwuinbox@gmail.com)
-
 ## About Me
 I'm focused primarily on creating apps that can be applied to everyday issues and streamline my research (I love imageJ). 
 Outside of academics, you can find me playing tennis, badminton, running, or reading. 
-Of course, I'm always open to collaborating on projects! Don't hesitate to send me a message.
+Of course, I'm always open to collaborating on projects!
 
 ### What I do
 - 🌱🧪Currently researching biochemistry and the plant sciences
