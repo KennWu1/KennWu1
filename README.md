@@ -6,15 +6,9 @@ Of course, I'm always open to collaborating on projects!
 
 ### What I do
 - 🌱🧪Currently researching biochemistry and the plant sciences
-- 🧑‍💻 I work on CS projects in my free time!
+- 🧑‍💻 I work on CS projects in my free time! 
 ### Skills
-- **Languages**: Java, C++, Python, SQL, Swift, React, Angular, HTML, CSS
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KennWu1&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
+- **Languages**:HTML, CSS, Java, C++, Python, SQL, Swift, React, Angular
 
 ## 🛠️ Skills & Tools
 
@@ -31,4 +25,9 @@ Of course, I'm always open to collaborating on projects!
 ![](https://img.shields.io/badge/DevOps-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
 ![](https://img.shields.io/badge/DevOps-GitHub_Actions-informational?style=flat&logo=github-actions&logoColor=white&color=2088FF)
 
+</div>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KennWu1&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
