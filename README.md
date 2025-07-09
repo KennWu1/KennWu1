@@ -8,7 +8,7 @@ Of course, I'm always open to collaborating on projects!
 
 ### What I do
 - 🧪Currently researching biochemistry and the plant sciences
-- 🧑‍💻 I work on CS projects in my free time! 
+- 🧑‍💻 I work on CS projects (sometimes) in my free time! 
 ### Skills
 - **Languages**: HTML, CSS, Java, C++, Python, SQL, Swift, React, Angular
 
