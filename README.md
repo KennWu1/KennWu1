@@ -1,11 +1,12 @@
 # Hello, I'm Kenn!
 ## About Me
+📍Richmond, Virginia
 I'm focused primarily on creating apps that can be applied to everyday issues and help streamline my research. 
 Outside of academics, you can find me playing tennis, badminton, running, or reading. 
 Of course, I'm always open to collaborating on projects!
 
 ### What I do
-- 🌱🧪Currently researching biochemistry and the plant sciences
+- 🧪Currently researching biochemistry and the plant sciences
 - 🧑‍💻 I work on CS projects in my free time! 
 ### Skills
 - **Languages**: HTML, CSS, Java, C++, Python, SQL, Swift, React, Angular
