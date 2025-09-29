@@ -1,4 +1,4 @@
-# Hello, I'm Kenn!
+# Hello!
 ## About Me
 📍Richmond, Virginia
 
