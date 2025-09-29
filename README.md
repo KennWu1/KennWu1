@@ -4,7 +4,6 @@
 
 I'm focused primarily on creating apps that can be applied to everyday issues and help streamline my research. 
 Outside of academics, you can find me playing tennis, badminton, running, or reading. 
-Of course, I'm always open to collaborating on projects!
 
 ### What I do
 - 🧪Currently researching biochemistry and the plant sciences
