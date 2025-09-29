@@ -6,7 +6,7 @@ I'm focused primarily on creating apps that can be applied to everyday issues an
 Outside of academics, you can find me playing tennis, badminton, running, or reading. 
 
 ### What I do
-- 🧪Currently researching biochemistry and the plant sciences
+- 🧪Currently researching biochemistry
 - 🧑‍💻 I work on CS projects (sometimes) in my free time! 
 ### Skills
 - **Languages**: HTML, CSS, Java, C++, Python, SQL, Swift, React, Angular
